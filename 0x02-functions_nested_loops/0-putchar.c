@@ -12,8 +12,9 @@ int main(void)
 	{
 		_putchar(*h);
 		h++;
-
+	
 	}
+	_putchar('\n')
 	return (0);
 }	
 
